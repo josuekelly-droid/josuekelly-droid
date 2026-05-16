@@ -1,8 +1,8 @@
-# 👋 Salut, moi c'est Kelly !
+# 👋 Hi, I'm Kelly!
 
-### 🎨 Ingénieur Produits & Designer
+### 🎨 Product Designer UI/UX & Developer
 
-Du pixel à la ligne de code, je transforme des idées en expériences numériques qui claquent ✨. Entre deux maquettes Figma et une requête API, je construis des produits qui allient esthétique, performance et accessibilité. Bref, je fais en sorte que la tech ait de la gueule et que le design ait du sens 🚀.
+From pixel to line of code, I turn ideas into stunning digital experiences ✨. Between Figma mockups and API calls, I build products that blend aesthetics, performance, and accessibility. In short, I make tech look good and design make sense 🚀.
 
 *🇫🇷 French speaker · 🇬🇧 English speaker — Open to international opportunities*
 
@@ -11,9 +11,9 @@ Du pixel à la ligne de code, je transforme des idées en expériences numériqu
 
 ---
 
-## 🧰 Technologies & Outils
+## 🧰 Tech Stack & Tools
 
-### 💻 Développement
+### 💻 Development
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -31,44 +31,48 @@ Du pixel à la ligne de code, je transforme des idées en expériences numériqu
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white)
 
-### 🛠 Outils
+### 🛠 Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-## 📊 Statistiques GitHub
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-phi-vert-51.vercel.app/api?username=josuekelly-droid&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Statistiques GitHub de Kelly" />
-  <img src="https://github-readme-stats-phi-vert-51.vercel.app/api/top-langs/?username=josuekelly-droid&layout=compact&theme=radical&hide_border=true" height="180" alt="Langages les plus utilisés" />
+  <img src="https://github-readme-stats-phi-vert-51.vercel.app/api?username=josuekelly-droid&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Kelly's GitHub Stats" />
+  <img src="https://github-readme-stats-phi-vert-51.vercel.app/api/top-langs/?username=josuekelly-droid&layout=compact&theme=radical&hide_border=true" height="180" alt="Most Used Languages" />
 </div>
 
 ---
 
-## 🚀 Projets en avant
+## 🚀 Featured Projects
+
+### [🎬 Tonami Events](https://tonami-events.vercel.app/)
+Audiovisual communication agency website. A complete showcase platform highlighting production services, graphic design, digital strategy, and training — crafted for a professional and creative audience.
+*Next.js • Tailwind CSS • Framer Motion*
 
 ### [🏡 LuxStay BJ](https://luxstay-bj.vercel.app/)
-Plateforme de réservation d'hébergements au Bénin. Un projet alliant une interface élégante et une expérience utilisateur fluide pour trouver le logement idéal.
-*Next.js • Tailwind CSS • Design UI/UX*
+Accommodation booking platform in Benin. A project combining an elegant interface with a smooth user experience to find the perfect place to stay.
+*Next.js • Tailwind CSS • UI/UX Design*
 
 ### [📋 Flowboard](https://flowboard-topaz.vercel.app/)
-Outil de gestion de projets et de tableaux de bord collaboratifs. Pensé pour les équipes qui veulent organiser leur flux de travail avec style et efficacité.
-*React • TypeScript • Design moderne*
+Project management and collaborative dashboard tool. Designed for teams looking to organize their workflow with style and efficiency.
+*React • TypeScript • Modern Design*
 
 ### [🌐 Portfolio – kelly-akplogan.vercel.app](https://kelly-akplogan.vercel.app/)
-Mon portfolio personnel conçu avec soin pour présenter mes travaux en design et développement.
-*Construit avec les technologies modernes du web.*
+My personal portfolio, carefully crafted to showcase my work in design and development.
+*Built with modern web technologies.*
 
 ---
 
-## 📫 Me contacter
+## 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kellyjosueakplogan)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jxjxkelly)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/jxjxkelly)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelly.webnux@gmail.com)
 
 ---
 
-*✨ N'hésite pas à parcourir mes dépôts et à me contacter pour échanger ou collaborer !*
+*✨ Feel free to browse my repositories and reach out to connect or collaborate!*
