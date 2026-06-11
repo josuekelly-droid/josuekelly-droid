@@ -6,7 +6,7 @@ From pixel to line of code, I turn ideas into stunning digital experiences ✨. 
 
 *🇫🇷 French speaker · 🇬🇧 English speaker — Open to international opportunities*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kelly--akplogan.vercel.app-blue?style=for-the-badge&logo=vercel)](https://kelly-akplogan.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kelly--akplogan.online-blue?style=for-the-badge&logo=vercel)](https://kelly-akplogan.online/)
 [![GitHub](https://img.shields.io/badge/GitHub-josuekelly--droid-black?style=for-the-badge&logo=github)](https://github.com/josuekelly-droid)
 
 ---
@@ -61,7 +61,7 @@ Accommodation booking platform in Benin. A project combining an elegant interfac
 Project management and collaborative dashboard tool. Designed for teams looking to organize their workflow with style and efficiency.
 *React • TypeScript • Modern Design*
 
-### [🌐 Portfolio – kelly-akplogan.vercel.app](https://kelly-akplogan.vercel.app/)
+### [🌐 Portfolio – kelly-akplogan.online](https://kelly-akplogan.online/)
 My personal portfolio, carefully crafted to showcase my work in design and development.
 *Built with modern web technologies.*
 
