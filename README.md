@@ -41,8 +41,9 @@ From pixel to line of code, I turn ideas into stunning digital experiences ✨. 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-phi-vert-51.vercel.app/api?username=josuekelly-droid&show_icons=true&theme=radical&hide_border=true&count_private=true" height="180" alt="Kelly's GitHub Stats" />
-  <img src="https://github-readme-stats-phi-vert-51.vercel.app/api/top-langs/?username=josuekelly-droid&layout=compact&theme=radical&hide_border=true" height="180" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=josuekelly-droid&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="Kelly's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuekelly-droid&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Most Used Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josuekelly-droid&theme=react-dark&hide_border=true&cache_seconds=86400" width="100%" alt="Activity Graph" />
 </div>
 
 ---
