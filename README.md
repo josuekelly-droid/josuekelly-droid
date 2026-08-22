@@ -41,14 +41,12 @@ From pixel to line of code, I turn ideas into stunning digital experiences ✨. 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Stats principales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=josuekelly-droid&show_icons=true&count_private=true&hide_border=true&theme=radical" height="180" alt="Kelly's GitHub Stats" />
+  <!-- GitHub Stats Cards (alternative) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuekelly-droid&theme=radical" width="100%" alt="Profile Details" />
   
-  <!-- Langages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuekelly-droid&layout=compact&hide_border=true&theme=radical" height="180" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josuekelly-droid&theme=radical" height="180" alt="Repos per Language" />
   
-  <!-- Graphique d'activité alternatif -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josuekelly-droid&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josuekelly-droid&theme=radical" height="180" alt="Stats" />
 </div>
 
 ---
