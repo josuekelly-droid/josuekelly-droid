@@ -41,12 +41,20 @@ From pixel to line of code, I turn ideas into stunning digital experiences ✨. 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats Cards (alternative) -->
+  <!-- Détails du profil -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=josuekelly-droid&theme=radical" width="100%" alt="Profile Details" />
   
+  <!-- Stats principales -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josuekelly-droid&theme=radical" height="180" alt="Stats" />
+  
+  <!-- Langages par repo -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josuekelly-droid&theme=radical" height="180" alt="Repos per Language" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josuekelly-droid&theme=radical" height="180" alt="Stats" />
+  <!-- Langages par commits -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=josuekelly-droid&theme=radical" height="180" alt="Most Commit Language" />
+  
+  <!-- Temps de travail -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=josuekelly-droid&theme=radical&utcOffset=1" height="180" alt="Productive Time" />
 </div>
 
 ---
