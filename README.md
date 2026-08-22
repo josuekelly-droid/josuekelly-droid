@@ -41,9 +41,14 @@ From pixel to line of code, I turn ideas into stunning digital experiences ✨. 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josuekelly-droid&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" height="180" alt="Kelly's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuekelly-droid&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" height="180" alt="Most Used Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=josuekelly-droid&theme=react-dark&hide_border=true&cache_seconds=86400" width="100%" alt="Activity Graph" />
+  <!-- Stats principales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=josuekelly-droid&show_icons=true&count_private=true&hide_border=true&theme=radical" height="180" alt="Kelly's GitHub Stats" />
+  
+  <!-- Langages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josuekelly-droid&layout=compact&hide_border=true&theme=radical" height="180" alt="Most Used Languages" />
+  
+  <!-- Graphique d'activité alternatif -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=josuekelly-droid&theme=radical&hide_border=true" width="100%" alt="GitHub Streak" />
 </div>
 
 ---
